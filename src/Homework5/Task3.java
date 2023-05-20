@@ -3,6 +3,7 @@ package Homework5;
 import java.util.Scanner;
 
 public class Task3 {
+
     public static void main(String[] args) {
         Scanner weight = new Scanner(System.in);
         int basic = 0;

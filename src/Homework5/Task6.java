@@ -10,6 +10,7 @@ public class Task6 {
         int minimum = numberArray[0];
         int maximum = numberArray[0];
         for (int i = 0; i < numberArray.length; i++) {
+
             if (minimum > numberArray[i]) {
                 minimum = numberArray[i];
             } if (maximum < numberArray[i]){
